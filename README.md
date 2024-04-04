@@ -1,9 +1,6 @@
 # getgrass_bot
 
-`pip3 install websockets_proxy`
-
-
-`pip3 install loguru`
+`pip install aiohttp aiohttp_socks loguru websockets_proxy`
 
 
 Modify user_id and sock5 proxy list in main function
